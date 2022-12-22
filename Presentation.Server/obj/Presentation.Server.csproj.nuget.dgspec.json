@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\estudosApiDDDFrontAlgular\\Desafio\\Presentation.Server\\Presentation.Server.csproj": {}
+    "C:\\Projetos\\estudosApiDDDFrontAlgular\\desafio-\\Presentation.Server\\Presentation.Server.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\estudosApiDDDFrontAlgular\\Desafio\\Application.Service\\Application.Service.csproj": {
+    "C:\\Projetos\\estudosApiDDDFrontAlgular\\desafio-\\Application.Service\\Application.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\estudosApiDDDFrontAlgular\\Desafio\\Application.Service\\Application.Service.csproj",
+        "projectUniqueName": "C:\\Projetos\\estudosApiDDDFrontAlgular\\desafio-\\Application.Service\\Application.Service.csproj",
         "projectName": "Application.Service",
-        "projectPath": "C:\\Projetos\\estudosApiDDDFrontAlgular\\Desafio\\Application.Service\\Application.Service.csproj",
+        "projectPath": "C:\\Projetos\\estudosApiDDDFrontAlgular\\desafio-\\Application.Service\\Application.Service.csproj",
         "packagesPath": "C:\\Users\\luiz.timoteo.brandao\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\estudosApiDDDFrontAlgular\\Desafio\\Application.Service\\obj\\",
+        "outputPath": "C:\\Projetos\\estudosApiDDDFrontAlgular\\desafio-\\Application.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luiz.timoteo.brandao\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Projetos\\estudosApiDDDFrontAlgular\\Desafio\\Domain.Model\\Domain.Model.csproj": {
-                "projectPath": "C:\\Projetos\\estudosApiDDDFrontAlgular\\Desafio\\Domain.Model\\Domain.Model.csproj"
+              "C:\\Projetos\\estudosApiDDDFrontAlgular\\desafio-\\Domain.Model\\Domain.Model.csproj": {
+                "projectPath": "C:\\Projetos\\estudosApiDDDFrontAlgular\\desafio-\\Domain.Model\\Domain.Model.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Projetos\\estudosApiDDDFrontAlgular\\Desafio\\Data.Repository\\Data.Repository.csproj": {
+    "C:\\Projetos\\estudosApiDDDFrontAlgular\\desafio-\\Data.Repository\\Data.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\estudosApiDDDFrontAlgular\\Desafio\\Data.Repository\\Data.Repository.csproj",
+        "projectUniqueName": "C:\\Projetos\\estudosApiDDDFrontAlgular\\desafio-\\Data.Repository\\Data.Repository.csproj",
         "projectName": "Data.Repository",
-        "projectPath": "C:\\Projetos\\estudosApiDDDFrontAlgular\\Desafio\\Data.Repository\\Data.Repository.csproj",
+        "projectPath": "C:\\Projetos\\estudosApiDDDFrontAlgular\\desafio-\\Data.Repository\\Data.Repository.csproj",
         "packagesPath": "C:\\Users\\luiz.timoteo.brandao\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\estudosApiDDDFrontAlgular\\Desafio\\Data.Repository\\obj\\",
+        "outputPath": "C:\\Projetos\\estudosApiDDDFrontAlgular\\desafio-\\Data.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luiz.timoteo.brandao\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -105,8 +105,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Projetos\\estudosApiDDDFrontAlgular\\Desafio\\Application.Service\\Application.Service.csproj": {
-                "projectPath": "C:\\Projetos\\estudosApiDDDFrontAlgular\\Desafio\\Application.Service\\Application.Service.csproj"
+              "C:\\Projetos\\estudosApiDDDFrontAlgular\\desafio-\\Application.Service\\Application.Service.csproj": {
+                "projectPath": "C:\\Projetos\\estudosApiDDDFrontAlgular\\desafio-\\Application.Service\\Application.Service.csproj"
               }
             }
           }
@@ -176,14 +176,14 @@
         }
       }
     },
-    "C:\\Projetos\\estudosApiDDDFrontAlgular\\Desafio\\Domain.Model\\Domain.Model.csproj": {
+    "C:\\Projetos\\estudosApiDDDFrontAlgular\\desafio-\\Domain.Model\\Domain.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\estudosApiDDDFrontAlgular\\Desafio\\Domain.Model\\Domain.Model.csproj",
+        "projectUniqueName": "C:\\Projetos\\estudosApiDDDFrontAlgular\\desafio-\\Domain.Model\\Domain.Model.csproj",
         "projectName": "Domain.Model",
-        "projectPath": "C:\\Projetos\\estudosApiDDDFrontAlgular\\Desafio\\Domain.Model\\Domain.Model.csproj",
+        "projectPath": "C:\\Projetos\\estudosApiDDDFrontAlgular\\desafio-\\Domain.Model\\Domain.Model.csproj",
         "packagesPath": "C:\\Users\\luiz.timoteo.brandao\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\estudosApiDDDFrontAlgular\\Desafio\\Domain.Model\\obj\\",
+        "outputPath": "C:\\Projetos\\estudosApiDDDFrontAlgular\\desafio-\\Domain.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luiz.timoteo.brandao\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -231,14 +231,14 @@
         }
       }
     },
-    "C:\\Projetos\\estudosApiDDDFrontAlgular\\Desafio\\Presentation.Server\\Presentation.Server.csproj": {
+    "C:\\Projetos\\estudosApiDDDFrontAlgular\\desafio-\\Presentation.Server\\Presentation.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\estudosApiDDDFrontAlgular\\Desafio\\Presentation.Server\\Presentation.Server.csproj",
+        "projectUniqueName": "C:\\Projetos\\estudosApiDDDFrontAlgular\\desafio-\\Presentation.Server\\Presentation.Server.csproj",
         "projectName": "Presentation.Server",
-        "projectPath": "C:\\Projetos\\estudosApiDDDFrontAlgular\\Desafio\\Presentation.Server\\Presentation.Server.csproj",
+        "projectPath": "C:\\Projetos\\estudosApiDDDFrontAlgular\\desafio-\\Presentation.Server\\Presentation.Server.csproj",
         "packagesPath": "C:\\Users\\luiz.timoteo.brandao\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\estudosApiDDDFrontAlgular\\Desafio\\Presentation.Server\\obj\\",
+        "outputPath": "C:\\Projetos\\estudosApiDDDFrontAlgular\\desafio-\\Presentation.Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luiz.timoteo.brandao\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -255,11 +255,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Projetos\\estudosApiDDDFrontAlgular\\Desafio\\Application.Service\\Application.Service.csproj": {
-                "projectPath": "C:\\Projetos\\estudosApiDDDFrontAlgular\\Desafio\\Application.Service\\Application.Service.csproj"
+              "C:\\Projetos\\estudosApiDDDFrontAlgular\\desafio-\\Application.Service\\Application.Service.csproj": {
+                "projectPath": "C:\\Projetos\\estudosApiDDDFrontAlgular\\desafio-\\Application.Service\\Application.Service.csproj"
               },
-              "C:\\Projetos\\estudosApiDDDFrontAlgular\\Desafio\\Data.Repository\\Data.Repository.csproj": {
-                "projectPath": "C:\\Projetos\\estudosApiDDDFrontAlgular\\Desafio\\Data.Repository\\Data.Repository.csproj"
+              "C:\\Projetos\\estudosApiDDDFrontAlgular\\desafio-\\Data.Repository\\Data.Repository.csproj": {
+                "projectPath": "C:\\Projetos\\estudosApiDDDFrontAlgular\\desafio-\\Data.Repository\\Data.Repository.csproj"
               }
             }
           }

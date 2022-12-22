@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\estudosApiDDDFrontAlgular\\Desafio\\Domain.Model\\Domain.Model.csproj",
+      "projectUniqueName": "C:\\Projetos\\estudosApiDDDFrontAlgular\\desafio-\\Domain.Model\\Domain.Model.csproj",
       "projectName": "Domain.Model",
-      "projectPath": "C:\\Projetos\\estudosApiDDDFrontAlgular\\Desafio\\Domain.Model\\Domain.Model.csproj",
+      "projectPath": "C:\\Projetos\\estudosApiDDDFrontAlgular\\desafio-\\Domain.Model\\Domain.Model.csproj",
       "packagesPath": "C:\\Users\\luiz.timoteo.brandao\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\estudosApiDDDFrontAlgular\\Desafio\\Domain.Model\\obj\\",
+      "outputPath": "C:\\Projetos\\estudosApiDDDFrontAlgular\\desafio-\\Domain.Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luiz.timoteo.brandao\\AppData\\Roaming\\NuGet\\NuGet.Config",

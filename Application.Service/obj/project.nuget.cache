@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CxtKUn6SMusDuZJ3cjsz9FHmBEitDDqmlRPR+EpmXHb1+U8fZNI3pyuNcPU615nwIcA+25W+FZ0fV5yzA+hP/g==",
+  "dgSpecHash": "D1/SKpumHHWvOb07Id8WkA2hySB87gDh4t3oLnVnsS18aasTkwSbB4ttCn54pt+jSccr6PEo23e94UMkGxLoWw==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\estudosApiDDDFrontAlgular\\Desafio\\Application.Service\\Application.Service.csproj",
+  "projectFilePath": "C:\\Projetos\\estudosApiDDDFrontAlgular\\desafio-\\Application.Service\\Application.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luiz.timoteo.brandao\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\luiz.timoteo.brandao\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

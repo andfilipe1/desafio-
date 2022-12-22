@@ -58,3 +58,15 @@ C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Domain.Model\obj\Debug\net6.0\Doma
 C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Domain.Model\obj\Debug\net6.0\refint\Domain.Model.dll
 C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Domain.Model\obj\Debug\net6.0\Domain.Model.pdb
 C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Domain.Model\obj\Debug\net6.0\ref\Domain.Model.dll
+C:\Projetos\estudosApiDDDFrontAlgular\desafio-\Domain.Model\bin\Debug\net6.0\Domain.Model.deps.json
+C:\Projetos\estudosApiDDDFrontAlgular\desafio-\Domain.Model\bin\Debug\net6.0\Domain.Model.dll
+C:\Projetos\estudosApiDDDFrontAlgular\desafio-\Domain.Model\bin\Debug\net6.0\Domain.Model.pdb
+C:\Projetos\estudosApiDDDFrontAlgular\desafio-\Domain.Model\obj\Debug\net6.0\Domain.Model.csproj.AssemblyReference.cache
+C:\Projetos\estudosApiDDDFrontAlgular\desafio-\Domain.Model\obj\Debug\net6.0\Domain.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\estudosApiDDDFrontAlgular\desafio-\Domain.Model\obj\Debug\net6.0\Domain.Model.AssemblyInfoInputs.cache
+C:\Projetos\estudosApiDDDFrontAlgular\desafio-\Domain.Model\obj\Debug\net6.0\Domain.Model.AssemblyInfo.cs
+C:\Projetos\estudosApiDDDFrontAlgular\desafio-\Domain.Model\obj\Debug\net6.0\Domain.Model.csproj.CoreCompileInputs.cache
+C:\Projetos\estudosApiDDDFrontAlgular\desafio-\Domain.Model\obj\Debug\net6.0\Domain.Model.dll
+C:\Projetos\estudosApiDDDFrontAlgular\desafio-\Domain.Model\obj\Debug\net6.0\refint\Domain.Model.dll
+C:\Projetos\estudosApiDDDFrontAlgular\desafio-\Domain.Model\obj\Debug\net6.0\Domain.Model.pdb
+C:\Projetos\estudosApiDDDFrontAlgular\desafio-\Domain.Model\obj\Debug\net6.0\ref\Domain.Model.dll

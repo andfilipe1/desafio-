@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VUvBP86ABTGcqHoa1YrjCyeLuLNU2JYAb+9N1rFUfwuC94C30BkN5Cdm6Z5hWtAjwImSDv8+iHQLcmekSlgN9A==",
+  "dgSpecHash": "tlqNfzSOL9zQJJ2FGKfimMZajuQldT9o+YTV1PyFNdU0Sw5hrYR2rnMoGYV/Y9vsGo7BEKhLVNePITbpHCEEUw==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\estudosApiDDDFrontAlgular\\Desafio\\Presentation.Server\\Presentation.Server.csproj",
+  "projectFilePath": "C:\\Projetos\\estudosApiDDDFrontAlgular\\desafio-\\Presentation.Server\\Presentation.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luiz.timoteo.brandao\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\luiz.timoteo.brandao\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",

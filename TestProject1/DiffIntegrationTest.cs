@@ -1,5 +1,4 @@
-﻿using Domain.Model.Entities;
-using Microsoft.AspNetCore.Mvc.Testing;
+﻿using Microsoft.AspNetCore.Mvc.Testing;
 using Newtonsoft.Json;
 using System.Net;
 using System.Text;

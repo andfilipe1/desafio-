@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "89yzGd3ws2zl9xlRqRcy1GpK1Zy1bm85UQKG+EdT0LlcCKFSRV718H0p49qGVpv9jS4GVBLu2Ew2cF22Wd++hQ==",
+  "dgSpecHash": "9GAXEtlxP4wUawo9ywZVtG8MVHHhDIBm5aINoPpNqx3+AeA0U5ZV4zlq4Q7WQ5FHUOqvK3C3V9OpHLj6opTOfg==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\estudosApiDDDFrontAlgular\\Desafio\\Domain.Model\\Domain.Model.csproj",
+  "projectFilePath": "C:\\Projetos\\estudosApiDDDFrontAlgular\\desafio-\\Domain.Model\\Domain.Model.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
