@@ -22,11 +22,19 @@ namespace Application.Service
         public async Task<ResultDiff> GetById(long id)
         {
             ItemDiff itemDiff = await _diffRepository.GetById(id);
-            //Validate equality between sides
-            if (itemDiff.Left == itemDiff.Right) return new ResultDiff { TypeDiffResult = TypeDiffResult.Equals};
 
-            //validate difference between sides
-            if (itemDiff.Left.Length != itemDiff.Right.Length) return new ResultDiff { TypeDiffResult = TypeDiffResult.SizeDoNotMatch};
+            if (itemDiff != null)
+            {
+                //Validate equality between sides
+                if (itemDiff.Left == itemDiff.Right) return new ResultDiff { TypeDiffResult = TypeDiffResult.Equals };
+
+                //validate difference between sides
+                if (itemDiff.Left.Length != itemDiff.Right.Length) return new ResultDiff { TypeDiffResult = TypeDiffResult.SizeDoNotMatch };
+            }
+
+            //Validate Empty sides
+            if (itemDiff is null) return new ResultDiff { TypeDiffResult = TypeDiffResult.Empty };
+
             return different(itemDiff);
         }
 

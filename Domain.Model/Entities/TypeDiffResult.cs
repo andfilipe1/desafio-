@@ -6,5 +6,6 @@ namespace Domain.Model.Entities
         Equals,
         ContentDoNotMatch,
         SizeDoNotMatch,
+        Empty,
     }
 }

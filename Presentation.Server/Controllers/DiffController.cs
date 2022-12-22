@@ -43,7 +43,7 @@ namespace Presentation.Server.Controllers
 
                 var result = await _diffService.GetById(id);
 
-                if (result is EmptyResult)
+                if (result.TypeDiffResult == TypeDiffResult.Empty)
                 {
                     return NotFound();
                 }
