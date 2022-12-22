@@ -1,0 +1,75 @@
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Application.Service\bin\Debug\net6.0\Application.Service.deps.json
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Application.Service\bin\Debug\net6.0\Application.Service.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Application.Service\bin\Debug\net6.0\Application.Service.pdb
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Application.Service\bin\Debug\net6.0\Domain.Model.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Application.Service\bin\Debug\net6.0\Domain.Model.pdb
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Application.Service\obj\Debug\net6.0\Application.Service.csproj.AssemblyReference.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Application.Service\obj\Debug\net6.0\Application.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Application.Service\obj\Debug\net6.0\Application.Service.AssemblyInfoInputs.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Application.Service\obj\Debug\net6.0\Application.Service.AssemblyInfo.cs
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Application.Service\obj\Debug\net6.0\Application.Service.csproj.CoreCompileInputs.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Application.Service\obj\Debug\net6.0\Application.Service.csproj.CopyComplete
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Application.Service\obj\Debug\net6.0\Application.Service.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Application.Service\obj\Debug\net6.0\refint\Application.Service.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Application.Service\obj\Debug\net6.0\Application.Service.pdb
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Application.Service\obj\Debug\net6.0\ref\Application.Service.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Application.Service\bin\Debug\net6.0\Application.Service.deps.json
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Application.Service\bin\Debug\net6.0\Application.Service.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Application.Service\bin\Debug\net6.0\Application.Service.pdb
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Application.Service\bin\Debug\net6.0\Domain.Model.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Application.Service\bin\Debug\net6.0\Domain.Model.pdb
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Application.Service\obj\Debug\net6.0\Application.Service.csproj.AssemblyReference.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Application.Service\obj\Debug\net6.0\Application.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Application.Service\obj\Debug\net6.0\Application.Service.AssemblyInfoInputs.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Application.Service\obj\Debug\net6.0\Application.Service.AssemblyInfo.cs
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Application.Service\obj\Debug\net6.0\Application.Service.csproj.CoreCompileInputs.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Application.Service\obj\Debug\net6.0\Application.Service.csproj.CopyComplete
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Application.Service\obj\Debug\net6.0\Application.Service.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Application.Service\obj\Debug\net6.0\refint\Application.Service.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Application.Service\obj\Debug\net6.0\Application.Service.pdb
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Application.Service\obj\Debug\net6.0\ref\Application.Service.dll
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Application.Service\bin\Debug\net6.0\Application.Service.deps.json
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Application.Service\bin\Debug\net6.0\Application.Service.dll
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Application.Service\bin\Debug\net6.0\Application.Service.pdb
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Application.Service\bin\Debug\net6.0\Domain.Model.dll
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Application.Service\bin\Debug\net6.0\Domain.Model.pdb
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Application.Service\obj\Debug\net6.0\Application.Service.csproj.AssemblyReference.cache
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Application.Service\obj\Debug\net6.0\Application.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Application.Service\obj\Debug\net6.0\Application.Service.AssemblyInfoInputs.cache
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Application.Service\obj\Debug\net6.0\Application.Service.AssemblyInfo.cs
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Application.Service\obj\Debug\net6.0\Application.Service.csproj.CoreCompileInputs.cache
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Application.Service\obj\Debug\net6.0\Application.Service.csproj.CopyComplete
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Application.Service\obj\Debug\net6.0\Application.Service.dll
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Application.Service\obj\Debug\net6.0\refint\Application.Service.dll
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Application.Service\obj\Debug\net6.0\Application.Service.pdb
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Application.Service\obj\Debug\net6.0\ref\Application.Service.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Application.Service\bin\Debug\net6.0\Application.Service.deps.json
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Application.Service\bin\Debug\net6.0\Application.Service.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Application.Service\bin\Debug\net6.0\Application.Service.pdb
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Application.Service\bin\Debug\net6.0\Domain.Model.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Application.Service\bin\Debug\net6.0\Domain.Model.pdb
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Application.Service\obj\Debug\net6.0\Application.Service.csproj.AssemblyReference.cache
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Application.Service\obj\Debug\net6.0\Application.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Application.Service\obj\Debug\net6.0\Application.Service.AssemblyInfoInputs.cache
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Application.Service\obj\Debug\net6.0\Application.Service.AssemblyInfo.cs
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Application.Service\obj\Debug\net6.0\Application.Service.csproj.CoreCompileInputs.cache
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Application.Service\obj\Debug\net6.0\Application.Service.csproj.CopyComplete
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Application.Service\obj\Debug\net6.0\Application.Service.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Application.Service\obj\Debug\net6.0\refint\Application.Service.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Application.Service\obj\Debug\net6.0\Application.Service.pdb
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Application.Service\obj\Debug\net6.0\ref\Application.Service.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Application.Service\bin\Debug\net6.0\Application.Service.deps.json
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Application.Service\bin\Debug\net6.0\Application.Service.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Application.Service\bin\Debug\net6.0\Application.Service.pdb
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Application.Service\bin\Debug\net6.0\Domain.Model.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Application.Service\bin\Debug\net6.0\Domain.Model.pdb
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Application.Service\obj\Debug\net6.0\Application.Service.csproj.AssemblyReference.cache
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Application.Service\obj\Debug\net6.0\Application.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Application.Service\obj\Debug\net6.0\Application.Service.AssemblyInfoInputs.cache
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Application.Service\obj\Debug\net6.0\Application.Service.AssemblyInfo.cs
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Application.Service\obj\Debug\net6.0\Application.Service.csproj.CoreCompileInputs.cache
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Application.Service\obj\Debug\net6.0\Application.Service.csproj.CopyComplete
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Application.Service\obj\Debug\net6.0\Application.Service.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Application.Service\obj\Debug\net6.0\refint\Application.Service.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Application.Service\obj\Debug\net6.0\Application.Service.pdb
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Application.Service\obj\Debug\net6.0\ref\Application.Service.dll

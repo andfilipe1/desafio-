@@ -1,0 +1,48 @@
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Domain.Core\bin\Debug\net6.0\Domain.Core.deps.json
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Domain.Core\bin\Debug\net6.0\Domain.Core.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Domain.Core\bin\Debug\net6.0\Domain.Core.pdb
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Domain.Core\obj\Debug\net6.0\Domain.Core.csproj.AssemblyReference.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Domain.Core\obj\Debug\net6.0\Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Domain.Core\obj\Debug\net6.0\Domain.Core.AssemblyInfoInputs.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Domain.Core\obj\Debug\net6.0\Domain.Core.AssemblyInfo.cs
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Domain.Core\obj\Debug\net6.0\Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Domain.Core\obj\Debug\net6.0\Domain.Core.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Domain.Core\obj\Debug\net6.0\refint\Domain.Core.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Domain.Core\obj\Debug\net6.0\Domain.Core.pdb
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Domain.Core\obj\Debug\net6.0\ref\Domain.Core.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Domain.Core\bin\Debug\net6.0\Domain.Core.deps.json
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Domain.Core\bin\Debug\net6.0\Domain.Core.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Domain.Core\bin\Debug\net6.0\Domain.Core.pdb
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Domain.Core\obj\Debug\net6.0\Domain.Core.csproj.AssemblyReference.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Domain.Core\obj\Debug\net6.0\Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Domain.Core\obj\Debug\net6.0\Domain.Core.AssemblyInfoInputs.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Domain.Core\obj\Debug\net6.0\Domain.Core.AssemblyInfo.cs
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Domain.Core\obj\Debug\net6.0\Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Domain.Core\obj\Debug\net6.0\Domain.Core.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Domain.Core\obj\Debug\net6.0\refint\Domain.Core.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Domain.Core\obj\Debug\net6.0\Domain.Core.pdb
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Domain.Core\obj\Debug\net6.0\ref\Domain.Core.dll
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Domain.Core\bin\Debug\net6.0\Domain.Core.deps.json
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Domain.Core\bin\Debug\net6.0\Domain.Core.dll
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Domain.Core\bin\Debug\net6.0\Domain.Core.pdb
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Domain.Core\obj\Debug\net6.0\Domain.Core.csproj.AssemblyReference.cache
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Domain.Core\obj\Debug\net6.0\Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Domain.Core\obj\Debug\net6.0\Domain.Core.AssemblyInfoInputs.cache
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Domain.Core\obj\Debug\net6.0\Domain.Core.AssemblyInfo.cs
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Domain.Core\obj\Debug\net6.0\Domain.Core.csproj.CoreCompileInputs.cache
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Domain.Core\obj\Debug\net6.0\Domain.Core.dll
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Domain.Core\obj\Debug\net6.0\refint\Domain.Core.dll
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Domain.Core\obj\Debug\net6.0\Domain.Core.pdb
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Domain.Core\obj\Debug\net6.0\ref\Domain.Core.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Domain.Core\bin\Debug\net6.0\Domain.Core.deps.json
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Domain.Core\bin\Debug\net6.0\Domain.Core.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Domain.Core\bin\Debug\net6.0\Domain.Core.pdb
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Domain.Core\obj\Debug\net6.0\Domain.Core.csproj.AssemblyReference.cache
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Domain.Core\obj\Debug\net6.0\Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Domain.Core\obj\Debug\net6.0\Domain.Core.AssemblyInfoInputs.cache
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Domain.Core\obj\Debug\net6.0\Domain.Core.AssemblyInfo.cs
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Domain.Core\obj\Debug\net6.0\Domain.Core.csproj.CoreCompileInputs.cache
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Domain.Core\obj\Debug\net6.0\Domain.Core.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Domain.Core\obj\Debug\net6.0\refint\Domain.Core.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Domain.Core\obj\Debug\net6.0\Domain.Core.pdb
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Domain.Core\obj\Debug\net6.0\ref\Domain.Core.dll

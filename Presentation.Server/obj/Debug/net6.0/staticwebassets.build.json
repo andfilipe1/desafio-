@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "h/wgwWaFbKpEenUgExFLW+kRoR1yslD1mDqveWWv/ms=",
+  "Source": "Presentation.Server",
+  "BasePath": "_content/Presentation.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,93 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Infrastructure.Crosscutting/1.0.0": {
+        "dependencies": {
+          "Microsoft.Data.Tools.Schema.Sql": "15.0.0.0",
+          "Microsoft.Data.Tools.Schema.Sql.UnitTesting": "17.0.0.0",
+          "Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter": "17.0.0.0"
+        },
+        "runtime": {
+          "Infrastructure.Crosscutting.dll": {}
+        }
+      },
+      "Microsoft.Data.Tools.Schema.Sql/15.0.0.0": {
+        "runtime": {
+          "Microsoft.Data.Tools.Schema.Sql.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.5565.3"
+          }
+        }
+      },
+      "Microsoft.Data.Tools.Schema.Sql.UnitTesting/17.0.0.0": {
+        "runtime": {
+          "Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll": {
+            "assemblyVersion": "17.0.0.0",
+            "fileVersion": "17.0.62207.28040"
+          }
+        }
+      },
+      "Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter/17.0.0.0": {
+        "runtime": {
+          "Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll": {
+            "assemblyVersion": "17.0.0.0",
+            "fileVersion": "17.0.62207.28040"
+          }
+        }
+      },
+      "Microsoft.Data.Tools.Utilities/15.0.0.0": {
+        "runtime": {
+          "Microsoft.Data.Tools.Utilities.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.5565.3"
+          }
+        }
+      },
+      "Microsoft.SqlServer.TransactSql.ScriptDom/15.0.0.0": {
+        "runtime": {
+          "Microsoft.SqlServer.TransactSql.ScriptDom.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.5565.3"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Infrastructure.Crosscutting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Data.Tools.Schema.Sql/15.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Data.Tools.Schema.Sql.UnitTesting/17.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter/17.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Data.Tools.Utilities/15.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.SqlServer.TransactSql.ScriptDom/15.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,331 @@
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\bin\Debug\net6.0\appsettings.json
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\bin\Debug\net6.0\Presentation.Server.exe
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\bin\Debug\net6.0\Presentation.Server.deps.json
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\bin\Debug\net6.0\Presentation.Server.runtimeconfig.json
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\bin\Debug\net6.0\Presentation.Server.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\bin\Debug\net6.0\Presentation.Server.pdb
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\bin\Debug\net6.0\Dapper.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\bin\Debug\net6.0\Dapper.Contrib.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\bin\Debug\net6.0\Application.Service.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\bin\Debug\net6.0\Data.Repository.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\bin\Debug\net6.0\Domain.Model.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\bin\Debug\net6.0\Application.Service.pdb
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\bin\Debug\net6.0\Data.Repository.pdb
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\bin\Debug\net6.0\Domain.Model.pdb
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\obj\Debug\net6.0\Presentation.Server.csproj.AssemblyReference.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\obj\Debug\net6.0\Presentation.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\obj\Debug\net6.0\Presentation.Server.AssemblyInfoInputs.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\obj\Debug\net6.0\Presentation.Server.AssemblyInfo.cs
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\obj\Debug\net6.0\Presentation.Server.csproj.CoreCompileInputs.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\obj\Debug\net6.0\Presentation.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\obj\Debug\net6.0\Presentation.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\obj\Debug\net6.0\staticwebassets\msbuild.Presentation.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\obj\Debug\net6.0\staticwebassets\msbuild.build.Presentation.Server.props
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Presentation.Server.props
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Presentation.Server.props
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\obj\Debug\net6.0\scopedcss\bundle\Presentation.Server.styles.css
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\obj\Debug\net6.0\Presentation.Server.csproj.CopyComplete
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\obj\Debug\net6.0\Presentation.Server.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\obj\Debug\net6.0\refint\Presentation.Server.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\obj\Debug\net6.0\Presentation.Server.pdb
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\obj\Debug\net6.0\Presentation.Server.genruntimeconfig.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Presentation.Server\obj\Debug\net6.0\ref\Presentation.Server.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\appsettings.json
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Presentation.Server.exe
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Presentation.Server.deps.json
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Presentation.Server.runtimeconfig.json
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Presentation.Server.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Presentation.Server.pdb
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Dapper.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Dapper.Contrib.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Application.Service.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Data.Repository.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Domain.Model.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Application.Service.pdb
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Data.Repository.pdb
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Domain.Model.pdb
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\Presentation.Server.csproj.AssemblyReference.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\Presentation.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\Presentation.Server.AssemblyInfoInputs.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\Presentation.Server.AssemblyInfo.cs
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\Presentation.Server.csproj.CoreCompileInputs.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\Presentation.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\Presentation.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\staticwebassets\msbuild.Presentation.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\staticwebassets\msbuild.build.Presentation.Server.props
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Presentation.Server.props
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Presentation.Server.props
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\scopedcss\bundle\Presentation.Server.styles.css
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\Presentation.Server.csproj.CopyComplete
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\Presentation.Server.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\refint\Presentation.Server.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\Presentation.Server.pdb
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\Presentation.Server.genruntimeconfig.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\ref\Presentation.Server.dll
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\appsettings.Development.json
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\appsettings.json
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Presentation.Server.exe
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Presentation.Server.deps.json
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Presentation.Server.runtimeconfig.json
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Presentation.Server.dll
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Presentation.Server.pdb
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\AutoMapper.dll
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Dapper.dll
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Dapper.Contrib.dll
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Application.Service.dll
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Data.Repository.dll
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Domain.Model.dll
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Application.Service.pdb
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Data.Repository.pdb
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Domain.Model.pdb
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\Presentation.Server.csproj.AssemblyReference.cache
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\Presentation.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\Presentation.Server.AssemblyInfoInputs.cache
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\Presentation.Server.AssemblyInfo.cs
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\Presentation.Server.csproj.CoreCompileInputs.cache
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\Presentation.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\Presentation.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\staticwebassets\msbuild.Presentation.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\staticwebassets\msbuild.build.Presentation.Server.props
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Presentation.Server.props
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Presentation.Server.props
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\scopedcss\bundle\Presentation.Server.styles.css
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\Presentation.Server.csproj.CopyComplete
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\Presentation.Server.dll
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\refint\Presentation.Server.dll
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\Presentation.Server.pdb
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\Presentation.Server.genruntimeconfig.cache
+C:\brandao\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\ref\Presentation.Server.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\appsettings.json
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Presentation.Server.exe
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Presentation.Server.deps.json
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Presentation.Server.runtimeconfig.json
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Presentation.Server.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Presentation.Server.pdb
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\AutoMapper.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Dapper.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Dapper.Contrib.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Application.Service.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Data.Repository.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Domain.Model.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Application.Service.pdb
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Data.Repository.pdb
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\bin\Debug\net6.0\Domain.Model.pdb
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\Presentation.Server.csproj.AssemblyReference.cache
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\Presentation.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\Presentation.Server.AssemblyInfoInputs.cache
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\Presentation.Server.AssemblyInfo.cs
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\Presentation.Server.csproj.CoreCompileInputs.cache
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\Presentation.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\Presentation.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\staticwebassets\msbuild.Presentation.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\staticwebassets\msbuild.build.Presentation.Server.props
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Presentation.Server.props
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Presentation.Server.props
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\scopedcss\bundle\Presentation.Server.styles.css
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\Presentation.Server.csproj.CopyComplete
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\Presentation.Server.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\refint\Presentation.Server.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\Presentation.Server.pdb
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\Presentation.Server.genruntimeconfig.cache
+C:\Projetos\estudosApiDDDFrontAlgular\Api Movimento Manual\Presentation.Server\obj\Debug\net6.0\ref\Presentation.Server.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\appsettings.json
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\Presentation.Server.exe
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\Presentation.Server.deps.json
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\Presentation.Server.runtimeconfig.json
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\Presentation.Server.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\Presentation.Server.pdb
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\AutoMapper.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\Dapper.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\Dapper.Contrib.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\Application.Service.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\Data.Repository.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\Domain.Model.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\Application.Service.pdb
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\Data.Repository.pdb
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\bin\Debug\net6.0\Domain.Model.pdb
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\obj\Debug\net6.0\Presentation.Server.csproj.AssemblyReference.cache
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\obj\Debug\net6.0\Presentation.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\obj\Debug\net6.0\Presentation.Server.AssemblyInfoInputs.cache
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\obj\Debug\net6.0\Presentation.Server.AssemblyInfo.cs
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\obj\Debug\net6.0\Presentation.Server.csproj.CoreCompileInputs.cache
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\obj\Debug\net6.0\Presentation.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\obj\Debug\net6.0\Presentation.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\obj\Debug\net6.0\staticwebassets\msbuild.Presentation.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\obj\Debug\net6.0\staticwebassets\msbuild.build.Presentation.Server.props
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Presentation.Server.props
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Presentation.Server.props
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\obj\Debug\net6.0\scopedcss\bundle\Presentation.Server.styles.css
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\obj\Debug\net6.0\Presentation.Server.csproj.CopyComplete
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\obj\Debug\net6.0\Presentation.Server.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\obj\Debug\net6.0\refint\Presentation.Server.dll
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\obj\Debug\net6.0\Presentation.Server.pdb
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\obj\Debug\net6.0\Presentation.Server.genruntimeconfig.cache
+C:\Projetos\estudosApiDDDFrontAlgular\Desafio\Presentation.Server\obj\Debug\net6.0\ref\Presentation.Server.dll
