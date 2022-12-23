@@ -38,21 +38,25 @@ namespace Application.Service
         {
             //Decode the input data
             var dataDecode = Encoding.ASCII.GetString(Convert.FromBase64String(inputDiff.Data));
+
             //Database call
             _diffRepository.PutById(id, side, dataDecode);
         }
 
         private static ResultDiff VerificaItemDiff(ItemDiff itemDiff)
         {
+                // Compare if any side is empty
                 if (itemDiff.Left is null || itemDiff.Right is null)
                     return new ResultDiff { TypeDiffResult = TypeDiffResult.NotPossibleCompare };
 
+                // Compare if the sides are equal
                 if (itemDiff.Left == itemDiff.Right)
                     return new ResultDiff { TypeDiffResult = TypeDiffResult.Equals };
 
+                //Compare if the field size is different between the sides.
                 if (itemDiff.Left.Length != itemDiff.Right.Length)
                     return new ResultDiff { TypeDiffResult = TypeDiffResult.SizeDoNotMatch };
-
+                
             return different(itemDiff);
 
         }
