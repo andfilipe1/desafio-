@@ -57,11 +57,11 @@ namespace Application.Service
                 if (itemDiff.Left.Length != itemDiff.Right.Length)
                     return new ResultDiff { TypeDiffResult = TypeDiffResult.SizeDoNotMatch };
                 
-            return different(itemDiff);
+            return Different(itemDiff);
 
         }
 
-        private static ResultDiff different(ItemDiff itemDiff)
+        private static ResultDiff Different(ItemDiff itemDiff)
         {
             // Differentiate between sides
             var resultDiff = new ResultDiff
