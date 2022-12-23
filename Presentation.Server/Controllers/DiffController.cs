@@ -1,4 +1,5 @@
 ﻿using Application.Service.Interface;
+using Domain.Model.DTO;
 using Domain.Model.Entities;
 using Microsoft.AspNetCore.Mvc;
 
@@ -66,7 +67,7 @@ namespace Presentation.Server.Controllers
                 if (side != "left" && side != "right") return NotFound();
                 if (diffInput is null || diffInput.Data is null) return BadRequest();
                 _diffService.PutById(id, side, diffInput);
-                return new CreatedResult("Dados salvos com sucesso", null);
+                return new CreatedResult("Data successfully saved", null);
             }
             catch (Exception ex)
             {

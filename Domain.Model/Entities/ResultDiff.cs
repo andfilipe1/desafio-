@@ -1,3 +1,4 @@
+using Domain.Model.DTO;
 using System.Text.Json;
 using System.Text.Json.Serialization;
 

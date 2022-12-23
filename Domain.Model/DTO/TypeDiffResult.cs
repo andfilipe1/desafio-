@@ -1,4 +1,4 @@
-namespace Domain.Model.Entities
+namespace Domain.Model.DTO
 {
     public enum TypeDiffResult
     {
@@ -7,5 +7,6 @@ namespace Domain.Model.Entities
         ContentDoNotMatch,
         SizeDoNotMatch,
         Empty,
+        NotPossibleCompare,
     }
 }
