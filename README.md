@@ -1,4 +1,4 @@
-## Required features
+## The assignment
 
 - Provide 2 http endpoints (`<host>/v1/diff/<ID>/left` and `<host>/v1/diff/<ID>/right`) that accept JSON containing base64 encoded binary data on both endpoints.
 - The provided data needs to be diff-ed and the results shall be available on a third endpoint (`<host>/v1/diff/<ID>`). The results shall provide the following info in JSON format:
@@ -14,7 +14,7 @@ Make assumptions in the implementation explicit, choices are good but need to be
 
 Use a Version Control System (preferably Git or Mercurial). Put the source code on a public repository or send it zipped.
 
-## Requirements
+## Must haves
 
 - Preferably C#. If you are really not comfortable with C#, you can use some other object-oriented and/or functional language, but provide more detailed info for running the solution
 - Functionality shall be under integration tests (not full code coverage is required)
