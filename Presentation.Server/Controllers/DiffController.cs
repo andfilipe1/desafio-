@@ -60,7 +60,7 @@ namespace Presentation.Server.Controllers
         // PUT: v1/diff/{id}/left
         // PUT: v1/diff/{id}/right
         [HttpPut("{id}/{side}")]
-        public async Task<ActionResult<ResultDiff>> PutById(long id, string side, InputDiff diffInput)
+        public ActionResult<ResultDiff> PutById(long id, string side, InputDiff diffInput)
         {
             try
             {

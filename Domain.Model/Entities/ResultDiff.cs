@@ -12,6 +12,6 @@ namespace Domain.Model.Entities
 
     
         [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
-        public List<TypeDiff>? Diffs { get; set; }
+        public List<TypeDiff> Diffs { get; set; }
     }
 }
