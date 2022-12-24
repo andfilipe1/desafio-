@@ -72,6 +72,9 @@ namespace Application.Service
             var left = itemDiff.Left.ToCharArray();
             var right = itemDiff.Right.ToCharArray();
             int lastEqualIndex = -1;
+
+        
+
                 for (int i = 0; i < left.Length; i++)
                 {
                     if (left[i] == right[i])
