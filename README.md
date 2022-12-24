@@ -25,7 +25,7 @@ Use a Version Control System (preferably Git or Mercurial). Put the source code 
 See the sample on next site.
 
 ## Test case (input & output)
-![image](https://raw.githubusercontent.com/andfilipe1/desafio-/main/Screenshot_1.png)
+![image](https://github.com/andfilipe1/desafio-/blob/main/Screenshot_1.png?raw=true)
 
 ## API Result (in Swagger)
 ![image](https://github.com/andfilipe1/desafio-/blob/main/Screenshot_3.png?raw=true)
