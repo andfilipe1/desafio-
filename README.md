@@ -38,7 +38,11 @@ See the sample on next site.
 
 ## Possible Improvements
 - Improve awareness of where the differences are, perhaps providing more information than just the byte index and number of different bits.
+
 - Data persistence. This would become a requirement if the system needed to be more failsafe. We could use a NoSql database to store the requests and their results.
+
 - If scalability becomes a requirement, this application was made using .net core 6.0 which is powerful to build microservices and the api is already prepared for use in container.
+
 - The microservices architecture can be considered, for example, using Docker to manage the packaging of the microservice in a container and Kubernetes to have load balancing and scalability
+
 - Add more records.
