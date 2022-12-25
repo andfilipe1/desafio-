@@ -1,6 +1,0 @@
-{
-  "Application.Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Projetos\\estudosApiDDDFrontAlgular\\desafio-\\Application.Service",
-  "Data.Repository, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Projetos\\estudosApiDDDFrontAlgular\\desafio-\\Data.Repository",
-  "Domain.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Projetos\\estudosApiDDDFrontAlgular\\desafio-\\Domain.Model",
-  "Presentation.Server, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Projetos\\estudosApiDDDFrontAlgular\\desafio-\\Presentation.Server"
-}
