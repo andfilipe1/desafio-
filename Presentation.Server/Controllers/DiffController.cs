@@ -24,7 +24,15 @@ namespace Presentation.Server.Controllers
         {
             try
             {
-                return Ok(await _diffService.GetAll());
+                var result = await _diffService.GetAll();
+                var resultvalue = result.Count();
+
+                if (resultvalue == 0)
+                {
+                    return NotFound();
+                }
+
+                return Ok(result);
             }
             catch (Exception ex)
             {
@@ -64,7 +72,7 @@ namespace Presentation.Server.Controllers
         {
             try
             {
-                if (side != "left" && side != "right") return NotFound();
+                if (side != "left".ToUpper() && side != "right".ToUpper()) return NotFound();
                 if (diffInput is null || diffInput.Data is null) return BadRequest();
                 _diffService.PutById(id, side, diffInput);
                 return new CreatedResult("Data successfully saved", null);
