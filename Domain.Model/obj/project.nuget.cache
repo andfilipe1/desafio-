@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QC9ZlHcVF5ZnpFHyW5FU3fmFl95YyEji1a7P63PrNDr3TTv+dv5UH3PB7NgcIpjb6mxIPKpgeFSIfgrI4wSyYw==",
+  "dgSpecHash": "o/bKE+1myl6tS/k1YGFPt3txBXIbuNQekDvrybSGBJlg8fLRHF4wM72M8Wlk1v+YtnAVFZ8OutpH7FBY3AQLww==",
   "success": true,
-  "projectFilePath": "C:\\ProjetosFrela\\Desafios\\desafio-\\Domain.Model\\Domain.Model.csproj",
+  "projectFilePath": "C:\\Projetos\\desafio-\\Domain.Model\\Domain.Model.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

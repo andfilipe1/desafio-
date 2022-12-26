@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProjetosFrela\\Desafios\\desafio-\\Domain.Model\\Domain.Model.csproj": {}
+    "C:\\Projetos\\desafio-\\Domain.Model\\Domain.Model.csproj": {}
   },
   "projects": {
-    "C:\\ProjetosFrela\\Desafios\\desafio-\\Domain.Model\\Domain.Model.csproj": {
+    "C:\\Projetos\\desafio-\\Domain.Model\\Domain.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProjetosFrela\\Desafios\\desafio-\\Domain.Model\\Domain.Model.csproj",
+        "projectUniqueName": "C:\\Projetos\\desafio-\\Domain.Model\\Domain.Model.csproj",
         "projectName": "Domain.Model",
-        "projectPath": "C:\\ProjetosFrela\\Desafios\\desafio-\\Domain.Model\\Domain.Model.csproj",
-        "packagesPath": "C:\\Users\\luizb\\.nuget\\packages\\",
-        "outputPath": "C:\\ProjetosFrela\\Desafios\\desafio-\\Domain.Model\\obj\\",
+        "projectPath": "C:\\Projetos\\desafio-\\Domain.Model\\Domain.Model.csproj",
+        "packagesPath": "C:\\Users\\luiz.timoteo.brandao\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\desafio-\\Domain.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\luizb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luiz.timoteo.brandao\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

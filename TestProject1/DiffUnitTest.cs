@@ -1,7 +1,7 @@
 ﻿using Data.Repository;
 using Data.Repository.Context;
 using Microsoft.EntityFrameworkCore;
-using Xunit;
+using Assert = Xunit.Assert;
 
 namespace TestProject1
 {
@@ -25,14 +25,14 @@ namespace TestProject1
         public async Task Step1_GetById_CheckNotFound()
         {
             var resultGet = await _diffRepository.GetById(1);
-            Xunit.Assert.Null(resultGet);
+            Assert.Null(resultGet);
         }
 
         [TestMethod]
         public async Task Step2_GetById_CheckNotFound()
         {
             var resultGet = await _diffRepository.GetAll();
-            Xunit.Assert.Collection(resultGet);
+            Assert.Collection(resultGet);
         }
 
     }

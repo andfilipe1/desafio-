@@ -2,6 +2,7 @@
 using Domain.Model.DTO;
 using Domain.Model.Entities;
 using Microsoft.AspNetCore.Mvc;
+using System.Net;
 
 namespace Presentation.Server.Controllers
 {
@@ -26,12 +27,7 @@ namespace Presentation.Server.Controllers
             {
                 var result = await _diffService.GetAll();
                 var resultvalue = result.Count();
-
-                if (resultvalue == 0)
-                {
-                    return NotFound();
-                }
-
+                if (resultvalue == 0) return NotFound();
                 return Ok(result);
             }
             catch (Exception ex)
@@ -49,13 +45,8 @@ namespace Presentation.Server.Controllers
             {
                 // Check input parameters
                 if (id <= 0) return BadRequest("Invalid id");
-
                 var result = await _diffService.GetById(id);
-
-                if (result.TypeDiffResult == TypeDiffResult.Empty)
-                {
-                    return NotFound();
-                }
+                if (result.TypeDiffResult == TypeDiffResult.Empty) return NotFound();
                 return Ok(result);
             }
             catch (Exception ex)
@@ -70,12 +61,13 @@ namespace Presentation.Server.Controllers
         [HttpPut("{id}/{side}")]
         public ActionResult<ResultDiff> PutById(long id, string side, InputDiff diffInput)
         {
+            if (side != "left" && side != "right") return NotFound();
+            if (diffInput is null || diffInput.Data is null) return BadRequest();
+
             try
             {
-                if (side != "left".ToUpper() && side != "right".ToUpper()) return NotFound();
-                if (diffInput is null || diffInput.Data is null) return BadRequest();
-                _diffService.PutById(id, side, diffInput);
-                return new CreatedResult("Data successfully saved", null);
+                 _diffService.PutById(id, side, diffInput);
+                return new CreatedResult("Data successfully saved", HttpStatusCode.Created);
             }
             catch (Exception ex)
             {

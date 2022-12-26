@@ -4532,19 +4532,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\luizb\\.nuget\\packages\\": {}
+    "C:\\Users\\luiz.timoteo.brandao\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProjetosFrela\\Desafios\\desafio-\\Application.Service\\Application.Service.csproj",
+      "projectUniqueName": "C:\\Projetos\\desafio-\\Application.Service\\Application.Service.csproj",
       "projectName": "Application.Service",
-      "projectPath": "C:\\ProjetosFrela\\Desafios\\desafio-\\Application.Service\\Application.Service.csproj",
-      "packagesPath": "C:\\Users\\luizb\\.nuget\\packages\\",
-      "outputPath": "C:\\ProjetosFrela\\Desafios\\desafio-\\Application.Service\\obj\\",
+      "projectPath": "C:\\Projetos\\desafio-\\Application.Service\\Application.Service.csproj",
+      "packagesPath": "C:\\Users\\luiz.timoteo.brandao\\.nuget\\packages\\",
+      "outputPath": "C:\\Projetos\\desafio-\\Application.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\luizb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\luiz.timoteo.brandao\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4558,8 +4558,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\ProjetosFrela\\Desafios\\desafio-\\Domain.Model\\Domain.Model.csproj": {
-              "projectPath": "C:\\ProjetosFrela\\Desafios\\desafio-\\Domain.Model\\Domain.Model.csproj"
+            "C:\\Projetos\\desafio-\\Domain.Model\\Domain.Model.csproj": {
+              "projectPath": "C:\\Projetos\\desafio-\\Domain.Model\\Domain.Model.csproj"
             }
           }
         }
@@ -4607,7 +4607,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
