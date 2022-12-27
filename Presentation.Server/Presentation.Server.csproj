@@ -18,6 +18,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Application.Service\Application.Service.csproj" />
     <ProjectReference Include="..\Data.Repository\Data.Repository.csproj" />
+    <ProjectReference Include="..\Domain.Model\Domain.Model.csproj" />
   </ItemGroup>
 
 </Project>

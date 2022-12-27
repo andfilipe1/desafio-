@@ -6170,6 +6170,7 @@
     "net6.0": [
       "Application.Service >= 1.0.0",
       "Data.Repository >= 1.0.0",
+      "Domain.Model >= 1.0.0",
       "Microsoft.EntityFrameworkCore.InMemory >= 6.0.5",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.5",
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.17.0",
@@ -6177,19 +6178,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\luiz.timoteo.brandao\\.nuget\\packages\\": {}
+    "C:\\Users\\luizb\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\desafio-\\Presentation.Server\\Presentation.Server.csproj",
+      "projectUniqueName": "C:\\ProjetosFrela\\Desafios\\desafio-\\Presentation.Server\\Presentation.Server.csproj",
       "projectName": "Presentation.Server",
-      "projectPath": "C:\\Projetos\\desafio-\\Presentation.Server\\Presentation.Server.csproj",
-      "packagesPath": "C:\\Users\\luiz.timoteo.brandao\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\desafio-\\Presentation.Server\\obj\\",
+      "projectPath": "C:\\ProjetosFrela\\Desafios\\desafio-\\Presentation.Server\\Presentation.Server.csproj",
+      "packagesPath": "C:\\Users\\luizb\\.nuget\\packages\\",
+      "outputPath": "C:\\ProjetosFrela\\Desafios\\desafio-\\Presentation.Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\luiz.timoteo.brandao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\luizb\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6203,11 +6204,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Projetos\\desafio-\\Application.Service\\Application.Service.csproj": {
-              "projectPath": "C:\\Projetos\\desafio-\\Application.Service\\Application.Service.csproj"
+            "C:\\ProjetosFrela\\Desafios\\desafio-\\Application.Service\\Application.Service.csproj": {
+              "projectPath": "C:\\ProjetosFrela\\Desafios\\desafio-\\Application.Service\\Application.Service.csproj"
             },
-            "C:\\Projetos\\desafio-\\Data.Repository\\Data.Repository.csproj": {
-              "projectPath": "C:\\Projetos\\desafio-\\Data.Repository\\Data.Repository.csproj"
+            "C:\\ProjetosFrela\\Desafios\\desafio-\\Data.Repository\\Data.Repository.csproj": {
+              "projectPath": "C:\\ProjetosFrela\\Desafios\\desafio-\\Data.Repository\\Data.Repository.csproj"
+            },
+            "C:\\ProjetosFrela\\Desafios\\desafio-\\Domain.Model\\Domain.Model.csproj": {
+              "projectPath": "C:\\ProjetosFrela\\Desafios\\desafio-\\Domain.Model\\Domain.Model.csproj"
             }
           }
         }
@@ -6258,7 +6262,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

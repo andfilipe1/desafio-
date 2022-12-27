@@ -66,7 +66,7 @@ namespace Presentation.Server.Controllers
 
             try
             {
-                 _diffService.PutById(id, side, diffInput);
+                _diffService.PutById(id, side, diffInput);
                 return new CreatedResult("Data successfully saved", HttpStatusCode.Created);
             }
             catch (Exception ex)
@@ -74,7 +74,6 @@ namespace Presentation.Server.Controllers
                 _logger.LogError($"Error in PutById: {ex}");
                 return BadRequest(ex);
             }
-
         }
     }
 

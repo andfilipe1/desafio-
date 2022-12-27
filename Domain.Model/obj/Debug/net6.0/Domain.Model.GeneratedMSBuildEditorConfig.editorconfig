@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Domain.Model
-build_property.ProjectDir = C:\Projetos\desafio-\Domain.Model\
+build_property.ProjectDir = C:\ProjetosFrela\Desafios\desafio-\Domain.Model\
