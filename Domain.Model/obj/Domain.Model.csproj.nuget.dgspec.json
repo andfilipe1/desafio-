@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProjetosFrela\\Desafios\\desafio-\\Domain.Model\\Domain.Model.csproj": {}
+    "D:\\ProjetosFrela\\desafio-\\Domain.Model\\Domain.Model.csproj": {}
   },
   "projects": {
-    "C:\\ProjetosFrela\\Desafios\\desafio-\\Domain.Model\\Domain.Model.csproj": {
+    "D:\\ProjetosFrela\\desafio-\\Domain.Model\\Domain.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProjetosFrela\\Desafios\\desafio-\\Domain.Model\\Domain.Model.csproj",
+        "projectUniqueName": "D:\\ProjetosFrela\\desafio-\\Domain.Model\\Domain.Model.csproj",
         "projectName": "Domain.Model",
-        "projectPath": "C:\\ProjetosFrela\\Desafios\\desafio-\\Domain.Model\\Domain.Model.csproj",
+        "projectPath": "D:\\ProjetosFrela\\desafio-\\Domain.Model\\Domain.Model.csproj",
         "packagesPath": "C:\\Users\\luizb\\.nuget\\packages\\",
-        "outputPath": "C:\\ProjetosFrela\\Desafios\\desafio-\\Domain.Model\\obj\\",
+        "outputPath": "D:\\ProjetosFrela\\desafio-\\Domain.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luizb\\AppData\\Roaming\\NuGet\\NuGet.Config",

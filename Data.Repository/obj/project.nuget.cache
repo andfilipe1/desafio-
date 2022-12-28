@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q2eH8UzubxJrlK80LWHjpXeAjOw+HJNrkqj/qOdwV59UAIPTs83Y4ndvmR0evx8Vo6fiALf9A/9sf9k79Rf9fQ==",
+  "dgSpecHash": "S0CZ8uTDh5IOxxHS2aQTuGIGlwkYTPI2cm8WOTPbA8UchDkwaa4VqQPelxFHaPmlsFyj8e5VDKcbqK7gMKvKAA==",
   "success": true,
-  "projectFilePath": "C:\\ProjetosFrela\\Desafios\\desafio-\\Data.Repository\\Data.Repository.csproj",
+  "projectFilePath": "D:\\ProjetosFrela\\desafio-\\Data.Repository\\Data.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luizb\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\luizb\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",

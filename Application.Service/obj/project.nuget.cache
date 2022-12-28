@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rjCGLQpYHnZE0dRGKYNmYB0wER6NMIaCqoqdayFiFRvrEOoicD0OK2xol8Xuc8L6Bh/qtWNcboZm7wDrbz6xvA==",
+  "dgSpecHash": "fzWnSzMYuBUpyBgl3rzOqh7wjupxYV0ARHFp7c19NOgZc9MOiErlGO+5VObJjmoIfQCMsa2mbfmnB41A4t5R5w==",
   "success": true,
-  "projectFilePath": "C:\\ProjetosFrela\\Desafios\\desafio-\\Application.Service\\Application.Service.csproj",
+  "projectFilePath": "D:\\ProjetosFrela\\desafio-\\Application.Service\\Application.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luizb\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\luizb\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

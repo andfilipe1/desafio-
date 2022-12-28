@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProjetosFrela\\Desafios\\desafio-\\Presentation.Server\\Presentation.Server.csproj": {}
+    "D:\\ProjetosFrela\\desafio-\\Presentation.Server\\Presentation.Server.csproj": {}
   },
   "projects": {
-    "C:\\ProjetosFrela\\Desafios\\desafio-\\Application.Service\\Application.Service.csproj": {
+    "D:\\ProjetosFrela\\desafio-\\Application.Service\\Application.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProjetosFrela\\Desafios\\desafio-\\Application.Service\\Application.Service.csproj",
+        "projectUniqueName": "D:\\ProjetosFrela\\desafio-\\Application.Service\\Application.Service.csproj",
         "projectName": "Application.Service",
-        "projectPath": "C:\\ProjetosFrela\\Desafios\\desafio-\\Application.Service\\Application.Service.csproj",
+        "projectPath": "D:\\ProjetosFrela\\desafio-\\Application.Service\\Application.Service.csproj",
         "packagesPath": "C:\\Users\\luizb\\.nuget\\packages\\",
-        "outputPath": "C:\\ProjetosFrela\\Desafios\\desafio-\\Application.Service\\obj\\",
+        "outputPath": "D:\\ProjetosFrela\\desafio-\\Application.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luizb\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\ProjetosFrela\\Desafios\\desafio-\\Domain.Model\\Domain.Model.csproj": {
-                "projectPath": "C:\\ProjetosFrela\\Desafios\\desafio-\\Domain.Model\\Domain.Model.csproj"
+              "D:\\ProjetosFrela\\desafio-\\Domain.Model\\Domain.Model.csproj": {
+                "projectPath": "D:\\ProjetosFrela\\desafio-\\Domain.Model\\Domain.Model.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\ProjetosFrela\\Desafios\\desafio-\\Data.Repository\\Data.Repository.csproj": {
+    "D:\\ProjetosFrela\\desafio-\\Data.Repository\\Data.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProjetosFrela\\Desafios\\desafio-\\Data.Repository\\Data.Repository.csproj",
+        "projectUniqueName": "D:\\ProjetosFrela\\desafio-\\Data.Repository\\Data.Repository.csproj",
         "projectName": "Data.Repository",
-        "projectPath": "C:\\ProjetosFrela\\Desafios\\desafio-\\Data.Repository\\Data.Repository.csproj",
+        "projectPath": "D:\\ProjetosFrela\\desafio-\\Data.Repository\\Data.Repository.csproj",
         "packagesPath": "C:\\Users\\luizb\\.nuget\\packages\\",
-        "outputPath": "C:\\ProjetosFrela\\Desafios\\desafio-\\Data.Repository\\obj\\",
+        "outputPath": "D:\\ProjetosFrela\\desafio-\\Data.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luizb\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -105,8 +105,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\ProjetosFrela\\Desafios\\desafio-\\Application.Service\\Application.Service.csproj": {
-                "projectPath": "C:\\ProjetosFrela\\Desafios\\desafio-\\Application.Service\\Application.Service.csproj"
+              "D:\\ProjetosFrela\\desafio-\\Application.Service\\Application.Service.csproj": {
+                "projectPath": "D:\\ProjetosFrela\\desafio-\\Application.Service\\Application.Service.csproj"
               }
             }
           }
@@ -176,14 +176,14 @@
         }
       }
     },
-    "C:\\ProjetosFrela\\Desafios\\desafio-\\Domain.Model\\Domain.Model.csproj": {
+    "D:\\ProjetosFrela\\desafio-\\Domain.Model\\Domain.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProjetosFrela\\Desafios\\desafio-\\Domain.Model\\Domain.Model.csproj",
+        "projectUniqueName": "D:\\ProjetosFrela\\desafio-\\Domain.Model\\Domain.Model.csproj",
         "projectName": "Domain.Model",
-        "projectPath": "C:\\ProjetosFrela\\Desafios\\desafio-\\Domain.Model\\Domain.Model.csproj",
+        "projectPath": "D:\\ProjetosFrela\\desafio-\\Domain.Model\\Domain.Model.csproj",
         "packagesPath": "C:\\Users\\luizb\\.nuget\\packages\\",
-        "outputPath": "C:\\ProjetosFrela\\Desafios\\desafio-\\Domain.Model\\obj\\",
+        "outputPath": "D:\\ProjetosFrela\\desafio-\\Domain.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luizb\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -231,14 +231,14 @@
         }
       }
     },
-    "C:\\ProjetosFrela\\Desafios\\desafio-\\Presentation.Server\\Presentation.Server.csproj": {
+    "D:\\ProjetosFrela\\desafio-\\Presentation.Server\\Presentation.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProjetosFrela\\Desafios\\desafio-\\Presentation.Server\\Presentation.Server.csproj",
+        "projectUniqueName": "D:\\ProjetosFrela\\desafio-\\Presentation.Server\\Presentation.Server.csproj",
         "projectName": "Presentation.Server",
-        "projectPath": "C:\\ProjetosFrela\\Desafios\\desafio-\\Presentation.Server\\Presentation.Server.csproj",
+        "projectPath": "D:\\ProjetosFrela\\desafio-\\Presentation.Server\\Presentation.Server.csproj",
         "packagesPath": "C:\\Users\\luizb\\.nuget\\packages\\",
-        "outputPath": "C:\\ProjetosFrela\\Desafios\\desafio-\\Presentation.Server\\obj\\",
+        "outputPath": "D:\\ProjetosFrela\\desafio-\\Presentation.Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luizb\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -255,14 +255,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\ProjetosFrela\\Desafios\\desafio-\\Application.Service\\Application.Service.csproj": {
-                "projectPath": "C:\\ProjetosFrela\\Desafios\\desafio-\\Application.Service\\Application.Service.csproj"
+              "D:\\ProjetosFrela\\desafio-\\Application.Service\\Application.Service.csproj": {
+                "projectPath": "D:\\ProjetosFrela\\desafio-\\Application.Service\\Application.Service.csproj"
               },
-              "C:\\ProjetosFrela\\Desafios\\desafio-\\Data.Repository\\Data.Repository.csproj": {
-                "projectPath": "C:\\ProjetosFrela\\Desafios\\desafio-\\Data.Repository\\Data.Repository.csproj"
+              "D:\\ProjetosFrela\\desafio-\\Data.Repository\\Data.Repository.csproj": {
+                "projectPath": "D:\\ProjetosFrela\\desafio-\\Data.Repository\\Data.Repository.csproj"
               },
-              "C:\\ProjetosFrela\\Desafios\\desafio-\\Domain.Model\\Domain.Model.csproj": {
-                "projectPath": "C:\\ProjetosFrela\\Desafios\\desafio-\\Domain.Model\\Domain.Model.csproj"
+              "D:\\ProjetosFrela\\desafio-\\Domain.Model\\Domain.Model.csproj": {
+                "projectPath": "D:\\ProjetosFrela\\desafio-\\Domain.Model\\Domain.Model.csproj"
               }
             }
           }
