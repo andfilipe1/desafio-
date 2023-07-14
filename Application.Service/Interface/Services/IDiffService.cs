@@ -1,5 +1,5 @@
 ﻿using Domain.Model.Entities;
-using Microsoft.AspNetCore.Mvc;
+using Domain.Model.Enuns;
 
 namespace Application.Service.Interface
 {
@@ -7,6 +7,6 @@ namespace Application.Service.Interface
     {
         Task<IEnumerable<ItemDiff>> GetAll();
         Task<ResultDiff> GetById(long id);
-        void PutById(long id, string side, InputDiff diffInput);
+        void PutById(long id, Side side, InputDiff diffInput);
     }
 }

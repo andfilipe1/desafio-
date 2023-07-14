@@ -1,7 +1,13 @@
 ﻿using Application.Service.Interface.Repositories;
 using Data.Repository.Context;
+using Domain.Model.DTO;
 using Domain.Model.Entities;
+using Domain.Model.Enuns;
 using Microsoft.EntityFrameworkCore;
+using System;
+using System.Collections.Generic;
+using System.Drawing;
+using System.Threading.Tasks;
 
 namespace Data.Repository
 {
@@ -11,41 +17,70 @@ namespace Data.Repository
 
         public DiffRepository(DiffContext context)
         {
-            _context = context;
+            _context = context ?? throw new ArgumentNullException(nameof(context));
         }
 
-        public async Task<IEnumerable<ItemDiff>> GetAll()
+        public async Task<IEnumerable<ItemDiff>> GetAllAsync()
         {
             return await _context.ItemDiff.ToListAsync();
         }
 
-        public async Task<ItemDiff> GetById(long id)
+        public async Task<ItemDiff> GetByIdAsync(long id)
         {
             return await _context.ItemDiff.FindAsync(id);
         }
 
-        public void PutById(long id, string side, string decodedData)
+        public async Task AddOrUpdateAsync(ItemDiff itemDiff)
         {
-            ItemDiff dbDiffItem = _context.ItemDiff.Find(id);
+            if (itemDiff == null)
+                throw new ArgumentNullException(nameof(itemDiff));
 
-            //Create new item in base
+            ItemDiff dbDiffItem = await _context.ItemDiff.FindAsync(itemDiff.Id);
+
             if (dbDiffItem == null)
             {
-                _context.ItemDiff.Add(new ItemDiff
-                {
-                    Id = id,
-                    Left = (side == "left") ? decodedData : null,
-                    Right = (side == "right") ? decodedData : null
-                });
-                _context.SaveChangesAsync();
+                _context.ItemDiff.Add(itemDiff);
             }
             else
             {
-                //Update item in base
-                if (side == "left") dbDiffItem.Left = decodedData;
-                else if (side == "right") dbDiffItem.Right = decodedData;
-                _context.SaveChangesAsync();
+                dbDiffItem.Left = itemDiff.Left;
+                dbDiffItem.Right = itemDiff.Right;
             }
+
+            await _context.SaveChangesAsync();
         }
+
+        public async Task PutByIdAsync(long id, Side side, string decodedData)
+        {
+            ItemDiff dbDiffItem = await _context.ItemDiff.FindAsync(id);
+
+            if (dbDiffItem == null)
+            {
+                dbDiffItem = new ItemDiff
+                {
+                    Id = id
+                };
+
+                _context.ItemDiff.Add(dbDiffItem);
+            }
+
+            switch (side)
+            {
+                case Side.Left:
+                    dbDiffItem.Left = decodedData;
+                    break;
+
+                case Side.Right:
+                    dbDiffItem.Right = decodedData;
+                    break;
+
+                default:
+                    throw new ArgumentException("Invalid side parameter.");
+            }
+
+            await _context.SaveChangesAsync();
+        }
+
     }
+
 }

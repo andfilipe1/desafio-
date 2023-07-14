@@ -1,24 +1,16 @@
-﻿using Microsoft.AspNetCore.Mvc.Testing;
-using Newtonsoft.Json;
+﻿using Newtonsoft.Json;
+using NUnit.Framework;
 using System.Net;
 using System.Text;
 
 namespace TestProject1
 {
-
-    [TestClass]
     public class DiffIntegrationTest
     {
-        private readonly HttpClient httpClient;
-        private readonly string baseUrl = "https://localhost:7164/v1/diff";
+        private HttpClient httpClient = new HttpClient();
+        private string baseUrl = "https://localhost:7164/v1/diff";
 
-        public DiffIntegrationTest()
-        {
-            httpClient = new WebApplicationFactory<Program>().CreateClient();
-        }
-
-  
-        [TestMethod]
+        [Test]
         public async Task Step1_GetAll_AtFirst()
         {
             string urlSlug = "/";
@@ -29,7 +21,7 @@ namespace TestProject1
             Assert.AreEqual(']', responseContent[responseContent.Length - 1]);
         }
 
-        [TestMethod]
+        [Test]
         public async Task Step2_Put_CreateLeft()
         {
             string urlSlug = "/1/left";
@@ -38,7 +30,7 @@ namespace TestProject1
             Assert.AreEqual(HttpStatusCode.Created, response.StatusCode);
         }
 
-        [TestMethod]
+        [Test]
         public async Task Step3_Put_CreateRight()
         {
             string urlSlug = "/1/right";
@@ -47,19 +39,7 @@ namespace TestProject1
             Assert.AreEqual(HttpStatusCode.Created, response.StatusCode);
         }
 
-        //[TestMethod]
-        //public async Task Step5_GetById_CheckEquals()
-        //{
-        //    string urlSlug = "/1";
-        //    HttpResponseMessage response = await httpClient.GetAsync(baseUrl + urlSlug);
-        //    //Assert.AreEqual(HttpStatusCode.OK, response.StatusCode);
-        //    string responseContent = await response.Content.ReadAsStringAsync();
-        //    var expectedJson = new { diffResultType = "Equals" };
-        //    Assert.AreEqual(JsonConvert.SerializeObject(expectedJson), responseContent.Trim());
-        //}
-
-
-        [TestMethod]
+        [Test]
         public async Task Step4_Put_UpdateRight()
         {
             string urlSlug = "/1/right";
@@ -68,7 +48,7 @@ namespace TestProject1
             Assert.AreEqual(HttpStatusCode.Created, response.StatusCode);
         }
 
-        [TestMethod]
+        [Test]
         public async Task Step5_GetById_ReadEmpty()
         {
             string urlSlug = "/1";

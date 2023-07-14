@@ -4532,19 +4532,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\luizb\\.nuget\\packages\\": {}
+    "C:\\Users\\luizb\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProjetosFrela\\desafio-\\Application.Service\\Application.Service.csproj",
+      "projectUniqueName": "D:\\Trabalho Remoto\\Desafios\\desafio-\\Application.Service\\Application.Service.csproj",
       "projectName": "Application.Service",
-      "projectPath": "D:\\ProjetosFrela\\desafio-\\Application.Service\\Application.Service.csproj",
+      "projectPath": "D:\\Trabalho Remoto\\Desafios\\desafio-\\Application.Service\\Application.Service.csproj",
       "packagesPath": "C:\\Users\\luizb\\.nuget\\packages\\",
-      "outputPath": "D:\\ProjetosFrela\\desafio-\\Application.Service\\obj\\",
+      "outputPath": "D:\\Trabalho Remoto\\Desafios\\desafio-\\Application.Service\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\luizb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4552,14 +4557,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.devexpress.com/api": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\ProjetosFrela\\desafio-\\Domain.Model\\Domain.Model.csproj": {
-              "projectPath": "D:\\ProjetosFrela\\desafio-\\Domain.Model\\Domain.Model.csproj"
+            "D:\\Trabalho Remoto\\Desafios\\desafio-\\Domain.Model\\Domain.Model.csproj": {
+              "projectPath": "D:\\Trabalho Remoto\\Desafios\\desafio-\\Domain.Model\\Domain.Model.csproj"
             }
           }
         }
@@ -4607,7 +4613,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

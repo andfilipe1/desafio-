@@ -9,4 +9,5 @@ namespace Domain.Model.DTO
         Empty,
         NotPossibleCompare,
     }
+
 }
