@@ -27,8 +27,9 @@ namespace Data.Repository
 
         public async Task<ItemDiff> GetByIdAsync(long id)
         {
-            return await _context.ItemDiff.FindAsync(id);
+            return await _context.ItemDiff.FindAsync(id) ?? null;
         }
+
 
         public async Task AddOrUpdateAsync(ItemDiff itemDiff)
         {

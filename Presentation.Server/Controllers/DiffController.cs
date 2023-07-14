@@ -31,7 +31,10 @@ namespace Presentation.Server.Controllers
             {
                 var result = await _diffService.GetAll();
                 var resultCount = result.Count();
-                if (resultCount == 0) return NotFound();
+                if (resultCount == 0)
+                {
+                    return Content("No data found.", "text/plain");
+                }
                 return Ok(result);
             }
             catch (Exception ex)
@@ -40,6 +43,8 @@ namespace Presentation.Server.Controllers
                 return BadRequest(ex);
             }
         }
+
+
 
         // GET: v1/diff/{id}
         /// <summary>

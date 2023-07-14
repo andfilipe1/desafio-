@@ -1,13 +1,6 @@
-﻿using Data.Repository;
-using Data.Repository.Context;
-using Domain.Model.Entities;
-using Domain.Model.Enuns;
-using Microsoft.EntityFrameworkCore;
-using NUnit.Framework;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using Domain.Model.Enuns;
 
-namespace TestProject1
+namespace TestProject2
 {
     public class DiffUnitRepositoryTest
     {
@@ -23,42 +16,27 @@ namespace TestProject1
             _diffRepository = new DiffRepository(context) ?? throw new System.Exception("Failed to create DiffRepository instance.");
         }
 
-        [SetUp]
-        public void Setup()
-        {
-            DbContextOptions<DiffContext> getDbOptions() =>
-                new DbContextOptionsBuilder<DiffContext>()
-                    .UseInMemoryDatabase(databaseName: "DiffDB")
-                    .Options;
-            var context = new DiffContext(getDbOptions());
-            _diffRepository = new DiffRepository(context);
-        }
-
-        [Test]
+        [Fact]
         public async Task GetByIdAsync_WhenItemNotFound_ShouldReturnNull()
         {
-            // Arrange
-
             // Act
-            var result = await _diffRepository.GetByIdAsync(1);
+            var result = await _diffRepository.GetByIdAsync(2021);
 
             // Assert
-            Assert.IsNull(result);
+            Assert.Null(result);
         }
 
-        [Test]
+        [Fact]
         public async Task GetAllAsync_WhenNoItems_ShouldReturnEmptyCollection()
         {
-            // Arrange
-
             // Act
             var result = await _diffRepository.GetAllAsync();
 
             // Assert
-            Assert.IsTrue(result.Count() == 0);
+            Assert.Empty(result);
         }
 
-        [Test]
+        [Fact]
         public async Task AddOrUpdateAsync_WhenItemDiffDoesNotExist_ShouldAddNewItem()
         {
             // Arrange
@@ -75,12 +53,12 @@ namespace TestProject1
 
             // Assert
             Assert.NotNull(result);
-            Assert.AreEqual(itemDiff.Id, result.Id);
-            Assert.AreEqual(itemDiff.Left, result.Left);
-            Assert.AreEqual(itemDiff.Right, result.Right);
+            Assert.Equal(itemDiff.Id, result.Id);
+            Assert.Equal(itemDiff.Left, result.Left);
+            Assert.Equal(itemDiff.Right, result.Right);
         }
 
-        [Test]
+        [Fact]
         public async Task AddOrUpdateAsync_WhenItemDiffExists_ShouldUpdateExistingItem()
         {
             // Arrange
@@ -106,12 +84,12 @@ namespace TestProject1
 
             // Assert
             Assert.NotNull(result);
-            Assert.AreEqual(updatedItemDiff.Id, result.Id);
-            Assert.AreEqual(updatedItemDiff.Left, result.Left);
-            Assert.AreEqual(updatedItemDiff.Right, result.Right);
+            Assert.Equal(updatedItemDiff.Id, result.Id);
+            Assert.Equal(updatedItemDiff.Left, result.Left);
+            Assert.Equal(updatedItemDiff.Right, result.Right);
         }
 
-        [Test]
+        [Fact]
         public async Task PutByIdAsync_WhenItemDiffDoesNotExist_ShouldAddNewDiffItem()
         {
             // Arrange
@@ -125,11 +103,11 @@ namespace TestProject1
 
             // Assert
             Assert.NotNull(result);
-            Assert.AreEqual(id, result.Id);
-            Assert.AreEqual(decodedData, result.Left);
+            Assert.Equal(id, result.Id);
+            Assert.Equal(decodedData, result.Left);
         }
 
-        [Test]
+        [Fact]
         public async Task PutByIdAsync_WhenItemDiffExists_ShouldUpdateExistingDiffItem()
         {
             // Arrange
@@ -145,8 +123,8 @@ namespace TestProject1
 
             // Assert
             Assert.NotNull(result);
-            Assert.AreEqual(id, result.Id);
-            Assert.AreEqual(updatedData, result.Left);
+            Assert.Equal(id, result.Id);
+            Assert.Equal(updatedData, result.Left);
         }
     }
 }
